@@ -1,0 +1,14 @@
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\bin\Debug\netcoreapp3.1\TugasMcc2StringManipulation.exe
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\bin\Debug\netcoreapp3.1\TugasMcc2StringManipulation.deps.json
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\bin\Debug\netcoreapp3.1\TugasMcc2StringManipulation.runtimeconfig.json
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\bin\Debug\netcoreapp3.1\TugasMcc2StringManipulation.runtimeconfig.dev.json
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\bin\Debug\netcoreapp3.1\TugasMcc2StringManipulation.dll
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\bin\Debug\netcoreapp3.1\TugasMcc2StringManipulation.pdb
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\obj\Debug\netcoreapp3.1\TugasMcc2StringManipulation.csproj.AssemblyReference.cache
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\obj\Debug\netcoreapp3.1\TugasMcc2StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\obj\Debug\netcoreapp3.1\TugasMcc2StringManipulation.AssemblyInfoInputs.cache
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\obj\Debug\netcoreapp3.1\TugasMcc2StringManipulation.AssemblyInfo.cs
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\obj\Debug\netcoreapp3.1\TugasMcc2StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\obj\Debug\netcoreapp3.1\TugasMcc2StringManipulation.dll
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\obj\Debug\netcoreapp3.1\TugasMcc2StringManipulation.pdb
+C:\Users\achma\source\repos\TugasMcc2StringManipulation\TugasMcc2StringManipulation\obj\Debug\netcoreapp3.1\TugasMcc2StringManipulation.genruntimeconfig.cache
